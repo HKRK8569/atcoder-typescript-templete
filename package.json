@@ -1,0 +1,13 @@
+{
+  "name": "atcorder-typescript-templete",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.1"
+  },
+  "volta": {
+    "node": "18.16.1"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
